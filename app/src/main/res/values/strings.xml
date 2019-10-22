@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="myname">Cheng Chia Shun</string>
+    <string name="profile_pic">Profile_picture</string>
+    <string name="profile_description">Hobby: \n Reading,Listen Music and Enjoy Live
+    \nEducation:\n
+    \n\t SJK(C)Pei Chun,Pontian,Johor\n
+     \n\t Pei Chun High School,Pontian,Johor\n
+     \n\t TARUC,Setapak,Kuala Lumpur\n
+    </string>
+</resources>
